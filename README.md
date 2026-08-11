@@ -1,18 +1,11 @@
 <h1 align="left">Olá, eu sou Ryan👺</h1>
 
-###
-
 <p align="left">Sou estudante de Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS) - Campus Chapecó e também um aspirante desenvolvedor!<br>Gosto muito de programação, Esportes e novas tecnologias.</p>
-
-###
 
 <h2 align="left">FERRAMENTAS QUE USO✨</h2>
 
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -23,14 +16,9 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
 </div>
 
-###
-
 <h2 align="left">Onde me encontrar🌌</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ryan-morais-19bb10359/" target="_blank">
@@ -44,12 +32,9 @@
   </a>
 </div>
 
-###
-
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/RyanMorais9/RyanMorais9/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanMorais9&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMorais9&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
