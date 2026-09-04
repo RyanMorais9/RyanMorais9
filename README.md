@@ -1,8 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Ryan <div align="center">
-
-# Olá, eu sou Ryan 🌀
+# Olá, eu sou Ryan 🌀<div align="center">
 
 Entusiasta de novas tecnologias, cybersegurança e desenvolvimento.
 Gosto de programação, esportes e estar sempre aprendendo algo novo.
