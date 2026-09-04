@@ -29,7 +29,7 @@ Gosto de programação, esportes e estar sempre aprendendo algo novo.
 
 ### 📊 Estatísticas
 
-<img src="https://github-stats-extended.vercel.app/api?username=RyanMorais9&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RyanMorais9&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-stats-extended.vercel.app/api?username=RyanMorais9&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=pt-br&hide_border=false&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&icon_color=ff0000" height="150" alt="stats graph" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RyanMorais9&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff" height="150" alt="languages graph" />
 
 </div>
