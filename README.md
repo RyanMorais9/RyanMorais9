@@ -33,6 +33,3 @@ Gosto de programação, esportes e estar sempre aprendendo algo novo.
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RyanMorais9&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&bg_color=0d0d0d&title_color=1e5fff&text_color=ffffff" height="150" alt="languages graph" />
 
 </div>
-
-Entusiasta de novas tecnologias, cybersegurança e desenvolvimento.
-Gosto de programação, esportes e estar sempre aprendendo algo novo.
