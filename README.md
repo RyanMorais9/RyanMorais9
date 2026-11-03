@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ryan-morais-19bb10359/)
 [![Instagram](https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ryan_morais667)
